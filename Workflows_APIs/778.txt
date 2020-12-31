@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl

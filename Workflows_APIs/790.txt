@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://beaconw.cs.manchester.ac.uk:8092/mcisb-web/ontology?wsdl

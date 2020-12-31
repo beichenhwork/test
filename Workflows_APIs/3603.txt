@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.chemspider.com/Search.asmx/SimpleSearch?query=
+http://www.chemspider.com/
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema
+http://www.chemspider.com/
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema-instance
+http://www.chemspider.com/Search.asmx/GetCompoundInfo?CSID=
+http://www.chemspider.com/
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema
+http://www.chemspider.com/
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema-instance

@@ -1,0 +1,9 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rdf.biosemantics.org/emco/v1.5/concepts/C3067636http://rdf.biosemantics.org/emco/v1.5/concepts/C3067219http://rdf.biosemantics.org/emco/v1.5/concepts/C3070198http://rdf.biosemantics.org/emco/v1.5/concepts/C3054172http://rdf.biosemantics.org/emco/v1.5/concepts/C3056377
+http://rdf.biosemantics.org/emco/v1.5/concepts/C3067636http://rdf.biosemantics.org/emco/v1.5/concepts/C3067219http://rdf.biosemantics.org/emco/v1.5/concepts/C3054172http://rdf.biosemantics.org/emco/v1.5/concepts/C3056377
+http://ws.biosemantics.org/ConceptProfileMiningService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/

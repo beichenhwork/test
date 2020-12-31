@@ -1,0 +1,16 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://www.wikipathways.org/wpi/webservice/webservice.php?wsdl
+http://www.pathvisio.org/Help_1.1#Supported_database_systems
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://www.wikipathways.org/wpi/webservice/webservice.php?wsdl

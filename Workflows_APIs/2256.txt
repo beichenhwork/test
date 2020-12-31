@@ -1,0 +1,2 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://139.191.240.49/wps?service=WPS&amp;version=1.0.0&amp;request=Execute&amp;identifier=nor_service&amp;status=true&amp;storeExecuteResponse=true&amp;DataInputs=

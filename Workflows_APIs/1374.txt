@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.ncbi.nlm.nih.gov/entrez/eutils/soap/v2.0/efetch_pubmed.wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed
+http://www.ncbi.nlm.nih.gov/soap/eutils/efetch_pubmed

@@ -1,0 +1,13 @@
+http://staff.science.uva.nl/~inda/test/med.dat
+http://www.vl-e.nl/SP2.5
+http://staff.science.uva.nl/~inda/test/med.design
+http://www.vl-e.nl/SP2.5
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/data.Rdata
+http://www.vl-e.nl/SP2.5
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/matest.Rdata
+http://www.vl-e.nl/SP2.5
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/matest.time
+http://www.vl-e.nl/SP2.5
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/ma-obs.log
+http://www.vl-e.nl/SP2.5
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html

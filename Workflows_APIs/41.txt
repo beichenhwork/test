@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://rguha.ath.cx:8080/cdkws/services/Utility?wsdl

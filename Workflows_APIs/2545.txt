@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.w3.org/2001/XMLSchema-instance
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/&gt
+http://mywebserver:80/
+http://msslkz.mssl.ucl.ac.uk/cxs/uws/jobs
+http://www.ivoa.net/xml/CEA/types/v1.1

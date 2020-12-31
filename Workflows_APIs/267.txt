@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/uniprotsequence.uniprot
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.parse_ddbj_gene_info
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.parse_uniprot
+http://xml.nig.ac.jp/wsdl/GO.wsdl

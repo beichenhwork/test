@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/intact/
+http://www.ebi.ac.uk/intact/binary-search-ws/binarysearch?wsdl
+http://ebi.ac.uk/intact/binarysearch/wsclient/generated
+http://ebi.ac.uk/intact/binarysearch/wsclient/generated
+http://ebi.ac.uk/intact/binarysearch/wsclient/generated
+http://www.w3.org/2001/XMLSchema

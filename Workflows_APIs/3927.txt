@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://openmodeller.sourceforge.net/web_service_2.html#toc16
+http://openmodeller.cria.org.br/ws/2.0
+http://openmodeller.cria.org.br/xml/2.0
+http://biovel.iais.fraunhofer.de/geoserver/ows?&lt;/url&gt
+http://biovel.iais.fraunhofer.de/geoserver/ows?&lt;/url&gt
+http://modeller.cria.org.br/ws2/om?wsdl
+http://biovel.iais.fraunhofer.de/shim/rest/raster/biovel&lt;/url&gt;&lt;/workspace&gt;&lt;workspace&gt;&lt;name&gt;palokangas&lt;/name&gt;&lt;url&gt;http://biovel.iais.fraunhofer.de/shim/rest/raster/palokangas&lt;/url&gt;&lt;/workspace&gt;&lt;workspace&gt;&lt;name&gt;biovel_temp&lt;/name&gt;&lt;url&gt;http://biovel.iais.fraunhofer.de/shim/rest/raster/biovel_temp&lt;/url&gt;&lt;/workspace&gt;&lt;workspace&gt;&lt;name&gt;rtemp&lt;/name&gt;&lt;url&gt;http://biovel.iais.fraunhofer.de/shim/rest/raster/rtemp&lt;/url&gt;&lt;/workspace&gt;&lt;/workspaces&gt
+http://biostif.at.biovel.eu/shim/rest/raster/
+http://biostif.at.biovel.eu/shim/rest/raster
+http://www.w3.org/1999/XSL/Transform

@@ -1,0 +1,12 @@
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema-instance
+http://www.gridworkflow.org/gworkflowdl/operationclass
+http://www.gridworkflow.org/gworkflowdl
+http://www.gridworkflow.org/gworkflowdl
+http://www.gridworkflow.org/kwfgrid/src/xsd/gworkflowdl_1_1.xsd
+http://www.gridworkflow.org/gworkflowdl/operationclass
+http://www.gridworkflow.org/kwfgrid/src/xsd/gworkflowdl_operationclass_1_1.xsd
+http://ingrid.sub.uni-goettingen.de:8082/axis2/services/textlog
+http://www.gridworkflow.org/gworkflowdl/images/text.png
+http://textgrid.info/namespaces/middleware/tgcrud/services/TGCrudService
+http://textgridlab.org/axis2/services/TGCrudService?wsdl

@@ -1,0 +1,7 @@
+http://dx.doi.org/10.6084/m9.figshare.1291646//
+https://gist.github.com/egonw/30fba853467a106e2240#file-gistfile1-txt//
+http://rs.tdwg.org/dwc/terms/
+http://purl.org/cgngenis/accenumb/
+http://www.w3.org/2001/XMLSchema
+http://qudt.org/1.1/vocab/unit#
+https://www.wikidata.org/wiki/

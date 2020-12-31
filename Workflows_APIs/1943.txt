@@ -1,0 +1,5 @@
+http://rdfs.org/sioc/ns#
+http://purl.org/dc/terms/
+http://rdf.myexperiment.org/ontologies/base/
+http://rdf.myexperiment.org/ontologies/contributions/
+http://www.w3.org/1999/02/22-rdf-syntax-ns#

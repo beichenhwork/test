@@ -1,0 +1,1 @@
+prefix wp:      <http://vocabularies.wikipathways.org/wp#>prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#>prefix dcterms:  <http://purl.org/dc/terms/>select ?datasource count(distinct ?identifier) as ?countwhere {  ?mb a wp:Metabolite ;    dc:source ?datasource ;    dc:identifier ?identifier .} order by desc(?count)

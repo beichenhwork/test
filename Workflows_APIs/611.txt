@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl

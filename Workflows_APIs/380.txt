@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://marilyn2.compbio.ucsf.edu/cgi-bin/depict4.pl?sub_id=
+http://zinc.docking.org/fget.pl?z=
+http://zinc.docking.org/srchdb.pl?zinc=

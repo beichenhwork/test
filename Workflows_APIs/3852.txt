@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://192.168.200.59:7789/genomic?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha

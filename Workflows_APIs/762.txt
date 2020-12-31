@@ -1,0 +1,7 @@
+http://www.w3.org/ns/xproc
+http://www.w3.org/ns/xproc-step
+http://www.ncbi.nlm.nih.gov/SNP/docsum
+http://www.w3.org/1999/XSL/Transform
+http://www.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=snp&amp;usehistory=y&amp;term=
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&amp;retmode=xml&amp;WebEnv=
+http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=

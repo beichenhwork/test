@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8080/axis2/services/Clustalw?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://clustalwPackage
+http://clustalwPackage
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://clustalwPackage
+http://clustalwPackage
+http://localhost:8080/axis2/services/Phylip?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phylipPackage
+http://phylipPackage
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phylipPackage
+http://phylipPackage

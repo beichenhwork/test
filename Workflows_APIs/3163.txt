@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://cdaweb.gsfc.nasa.gov/WS/sp_phys/jaxrpc?WSDL
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://cdaweb.gsfc.nasa.gov/tmp/ws11457075721/WI_H1_WAV__000.gif&lt;/item&gt;&lt;/urls&gt;&lt;warnings&gt;&lt;item
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance

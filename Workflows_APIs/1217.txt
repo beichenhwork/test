@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://helio.i4ds.technik.fhnw.ch:8080/HelioDPAS-R1/services/QueryService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://controller.dpas.helio.i4ds.ie
+http://controller.dpas.helio.i4ds.ie
+http://www.w3.org/2001/XMLSchema
+http://controller.dpas.helio.i4ds.ie
+http://www.w3.org/2001/XMLSchema
+http://controller.dpas.helio.i4ds.ie
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://controller.dpas.helio.i4ds.ie
+http://controller.dpas.helio.i4ds.ie

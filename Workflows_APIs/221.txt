@@ -1,0 +1,13 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.drive5.com/muscle/
+http://www.ebi.ac.uk/Tools/webservices/services/muscle
+http://www.ebi.ac.uk/Tools/webservices/services/muscle#runmuscle_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMuscle.wsdl
+http://www.ebi.ac.uk/WSMuscle
+http://www.ebi.ac.uk/WSMuscle
+http://www.ebi.ac.uk/WSMuscle
+http://www.ebi.ac.uk/WSMuscle
+http://www.ebi.ac.uk/Tools/webservices/services/muscle#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMuscle.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/muscle#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMuscle.wsdl

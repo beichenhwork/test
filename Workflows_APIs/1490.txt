@@ -1,0 +1,4 @@
+http://www.ourexperiment.org/uri/b
+http://www.ourexperiment.org/labbook_engage/14/Characterization_Template__Proton_NMR.html
+http://www.ourexperiment.org/labbook_engage/14/Characterization_Template__Proton_NMR.html
+http://www.ourexperiment.org/labbook_engage/14/Characterization_Template__Proton_NMR.xml

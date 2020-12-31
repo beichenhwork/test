@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.myexperiment.org
+file:///some/path/on/my/disk/myExperimentBeanshellCollection.xml
+file:///drive_letter:/My%20Documents/myExperimentBeanshellCollection.xml

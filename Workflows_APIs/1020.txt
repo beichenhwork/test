@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioinformatics.istge.it:8080/axis/services/cabri::getCellLinesById
+http://bioinformatics.istge.it:8080/axis/services/cabri::getCellLineIdsByName
+http://www.mygrid.org.uk/ontology#CABRI_cell_lines_catalogue
+http://www.mygrid.org.uk/ontology#CABRI_cell_lines_record

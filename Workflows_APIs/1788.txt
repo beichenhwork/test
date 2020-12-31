@@ -1,0 +1,14 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/setOptionXmlList.bsh
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://reference.wolfram.com/mathematica/ref/ListPlot.html
+http://reference.wolfram.com/mathematica/ref/ListPlot3D.html
+http://reference.wolfram.com/mathematica/PlotLegends/ref/Legend.html

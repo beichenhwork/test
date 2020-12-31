@@ -1,0 +1,16 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://helio.oato.inaf.it:8080/HECService/HECService?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://service.hec/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://service.hec/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://controller
+http://controller
+http://controller
+http://controller
+http://helio.i4ds.technik.fhnw.ch:8080/HelioDPAS-R1/services/QueryService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://controller.dpas.helio.i4ds.ie
+http://controller.dpas.helio.i4ds.ie
+http://solarmonitor.org/data/

@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://scape.keep.pt/scapeservices/scape-imagemagickimage2jp210-service/imagemagickimage2jp210.wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://scape-project.eu/pc/services
+http://scape-project.eu/pc/services

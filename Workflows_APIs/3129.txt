@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.w3.org/2001/XMLSchema-instance
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.myexperiment.org/workflows/3068.html
+http://www.myexperiment.org/workflows/3052.html

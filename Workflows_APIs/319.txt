@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phoebus.cs.man.ac.uk:8555/axis/services/qtl_analysis.affy_probeset_in_region
+http://phoebus.cs.man.ac.uk:8555/axis/services/qtl_analysis.getcurrentdatabase
+http://localhost/maxdBrowse/geneHunt2.wsdl
+http://130.88.197.210/maxdBrowse/maxdBrowse.wsdl

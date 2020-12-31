@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://flosseb.floss.syr.edu/taverna/wsdl
+http://flosseb.floss.syr.edu/taverna/wsdl
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://flosseb.floss.syr.edu/taverna/wsdl

@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationIdsByEffect
+http://srs.o2i.it/srs71/
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationsByIds
+http://srs.o2i.it/srs71/
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationsByIds
+http://srs.o2i.it/srs71/
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationsByIds
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationIdsByIntron

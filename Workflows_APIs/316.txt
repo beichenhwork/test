@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getgenesbyspecies

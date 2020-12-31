@@ -1,0 +1,6 @@
+http://apps.ideaconsult.net:8080/ambit2/
+http://apps.ideaconsult.net:8080/ontology/
+http://apps.ideaconsult.net:8080/ambit2/
+http://apps.ideaconsult.net:8080/ambit2/model/6
+http://apps.ideaconsult.net:8080/ambit2/
+http://apps.ideaconsult.net:8080/ambit2/model/35

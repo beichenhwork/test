@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://helio-vo.eu/xml/QueryService/v0.1
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.ivoa.net/xml/VOTable/v1.1
+http://msslxw.mssl.ucl.ac.uk:8080/helio-ils/HelioTavernaService?wsdl

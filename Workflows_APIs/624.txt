@@ -1,0 +1,6 @@
+http://bioextract.org
+http://www.ebi.ac.uk/Tools/webservices/services/interproscan
+http://www.ebi.ac.uk/soaplab/services/nucleic_gene_finding.getorf
+http://emboss.sourceforge.net/apps/release/4.1/emboss/apps/getorf.html
+http://www.ncbi.nlm.nih.gov/BLAST/blastcgihelp.shtml
+http://bioinfo.mpiz-koeln.mpg.de/axis/services/EBI_InterproScan

@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://172.28.34.154:8080/service/?wsdl
+http://172.28.34.154:8080/service/?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://172.28.34.154:8080/service/?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha

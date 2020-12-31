@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/ws/services/urn:Dbfetch?wsdl
+http://www.ebi.ac.uk/ws/services/urn:Dbfetch?wsdl
+http://www.ebi.ac.uk/ws/services/urn:Dbfetch?wsdl
+http://www.ebi.ac.uk/ws/services/urn:Dbfetch?wsdl

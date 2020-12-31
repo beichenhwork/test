@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/soaplab/overview
+http://www.ebi.ac.uk/soaplab/emboss4/services/nucleic_gene_finding.getorf
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDbfetch.wsdl
+http://www.ebi.ac.uk/soaplab/emboss4/services/edit.seqret

@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.myexperiment.org/workflows/
+http://4xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://www.myexperiment.org/workflows/648/download
+http://www.myexperiment.org/workflows/648/download

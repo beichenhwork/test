@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://www.w3.org/2001/XMLSchema
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/setConstantCompactXmlList.bsh
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl

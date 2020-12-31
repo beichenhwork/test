@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://zulu.ijs.si:8086/LM_service?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/Lemmatization/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/Lemmatization/
+http://zulu.ijs.si:8086/LM_service?wsdl
+http://ropot.ijs.si/webservices/janez/getvalues.php?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha

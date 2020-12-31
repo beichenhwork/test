@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://zulu.ijs.si:8086/PS_service?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/Stemming/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/Stemming/

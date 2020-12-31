@@ -1,0 +1,15 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://wheel94:9000/SeqService?wsdl
+http://wheel94:9000/SeqService?wsdl
+http://www.ebi.ac.uk/cgi-bin/dbfetch?db=embl&amp;style=raw&amp;id=AJ938182
+http://www.ebi.ac.uk/Tools/webservices/services/wublast
+http://www.ebi.ac.uk/Tools/webservices/services/wublast
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/Tools/webservices/services/wublast#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl

@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://cdms.ph1.uni-koeln.de/DjCDMSdev/tap/
+http://cdms.ph1.uni-koeln.de/DjCDMSdev/tap/
+http://casx019-zone1.ast.cam.ac.uk:80/XSAMS-views/service
+http://batz.lpma.jussieu.fr:8080/tapservice_11_12/TAP/
+http://www.vamdc.euTaverna
+http://voparis-twiki.obspm.fr/twiki/bin/view/VAMDC/TavernaUserGuide

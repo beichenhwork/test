@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://dbkcodon.ch.umist.ac.uk/devel/maxdBrowse/sequences/geneHunterPHPed/wsdl.xml

@@ -1,0 +1,12 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/mpsrch
+http://www.ebi.ac.uk/WSMPsrch
+http://www.ebi.ac.uk/WSMPsrch
+http://www.ebi.ac.uk/WSMPsrch
+http://www.ebi.ac.uk/WSMPsrch
+http://www.ebi.ac.uk/Tools/webservices/services/mpsrch#runmpsrch_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMPsrch.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/mpsrch#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMPsrch.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/mpsrch#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMPsrch.wsdl

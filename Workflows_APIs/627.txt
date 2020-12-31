@@ -1,0 +1,7 @@
+http://bioextract.org
+http://emboss.sourceforge.net/apps/release/6.0/emboss/apps/emma.html
+http://emboss.sourceforge.net/apps/release/6.0/emboss/apps/tmap.html
+http://emboss.sourceforge.net/apps/release/4.1/emboss/apps/prettyplot.html
+http://emboss.sourceforge.net/apps/release/6.0/emboss/apps/prophecy.html
+http://emboss.sourceforge.net/apps/release/6.0/emboss/apps/transeq.html
+http://emboss.sourceforge.net/apps/release/6.0/emboss/apps/prophet.html

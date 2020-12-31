@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.myexperiment.org/workflows/26.html
+http://www.myexperiment.org/workflows/26.html
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery.wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://xml.apache.org/xml-soap
+http://xml.apache.org/xml-soap
+http://xml.apache.org/xml-soap
+http://www.ebi.ac.uk/ontology-lookup/

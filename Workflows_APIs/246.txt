@@ -1,0 +1,8 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://dbkgroup.org/software/maxd/maxdBrowse/sequences/MeasurementDataTabTextFASTTransposed/wsdl.xml
+http://dbkgroup.org/software/maxd/maxdBrowse/sequences/MeasurementDataTabTextFASTTransposed/wsdl.xml
+http://dbk-ed.mib.man.ac.uk:8080/YeastAffymapper/services/YeastAffymapper?wsdl
+http://dbk-ed.mib.man.ac.uk:8080/GoTermFinder/services/GoTermFinder?wsdl
+http://dbkgroup.org/software/maxd/maxdBrowse/sequences/GetAllMeasurementNames/wsdl.xml
+http://dbk-ed.mib.man.ac.uk:8080/YeastAffymapper/services/YeastAffymapper?wsdl
+http://dbk-ed.mib.man.ac.uk:8080/YeastAffymapper/services/YeastAffymapper?wsdl

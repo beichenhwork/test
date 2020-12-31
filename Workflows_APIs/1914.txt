@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rsg.pml.ac.uk/wps/generic.cgi?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0
+http://rsg.pml.ac.uk/wps/generic.cgi?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0

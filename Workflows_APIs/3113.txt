@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.ebi.ac.uk/QuickGO/reference.html
+http://www.ebi.ac.uk/QuickGO/reference.html
+http://www.ebi.ac.uk/biomodels-main/services/BioModelsWebServices?wsdl
+http://www.ebi.ac.uk/biomodels-main/services/BioModelsWebServices?wsdl
+http://www.ebi.ac.uk/biomodels-main/
+http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+http://www.ebi.ac.uk/QuickGO/GAnnotation?goid=

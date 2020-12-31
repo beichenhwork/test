@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://www.genome.jp/kegg/docs/keggapi_manual.html#label:42.A
+http://www.genome.jp/kegg/docs/keggapi_manual.html#label:42.A

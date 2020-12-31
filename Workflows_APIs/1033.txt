@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservices.basis.ncl.ac.uk/
+http://basis1.ncl.ac.uk:81//BasisWebServices/BasisSBMLService?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservices.basis.ncl.ac.uk/

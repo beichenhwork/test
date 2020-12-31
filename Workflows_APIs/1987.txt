@@ -1,0 +1,5 @@
+http://bioextract.org
+http://www.ebi.ac.uk/soaplab/services/nucleic_gene_finding.getorf
+http://emboss.sourceforge.net/apps/release/6.1/emboss/apps/getorf.html
+http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
+http://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi

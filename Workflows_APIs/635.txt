@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8890/sparql?default-graph-uri=&amp;should-sponge=&amp;query=SELECT+%3Ftype1%2C+count
+http://localhost:8890/sparql?default-graph-uri=&amp;should-sponge=soft&amp;query=SELECT+%3Fs%2C+%3Fo+FROM+&lt;http%3A%2F%2Fbio2rdf.org%2F
+http://localhost:8892/sparql
+http://atlas.bio2rdf.org/sparql
+http://bio2rdf.org/

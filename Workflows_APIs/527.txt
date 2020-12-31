@@ -1,0 +1,3 @@
+http://schemas.microsoft.com/research/2007/ScientificWorkflow
+http://schemas.microsoft.com/winfx/2006/xaml/workflow
+http://schemas.microsoft.com/winfx/xaml

@@ -1,0 +1,15 @@
+http://www.fmrib.ox.ac.uk/fsl/fsl/licence.htmlLICENCEFMRIB
+http://www.fmrib.ox.ac.uk/fsl/
+http://www.loni.ucla.edu/Software/license.phpBy
+http://www.loni.ucla.edu/software/termsofuse.php
+http://www.loni.ucla.edu/twiki/bin/view/CCB/DoSkullstripping
+http://loni.ucla.edu
+http://www.fmrib.ox.ac.uk/Members/steve
+http://users.fmrib.ox.ac.uk/~mark/
+http://www.fmrib.ox.ac.uk/fsl/fsl/licence.htmlLICENCEFMRIB
+http://www.fmrib.ox.ac.uk/fsl/flirt/index.html
+http://loni.ucla.edu
+http://www.fmrib.ox.ac.uk/Members/steve
+http://users.fmrib.ox.ac.uk/~mark/
+http://www.fmrib.ox.ac.uk/fsl/fsl/licence.htmlLICENCEFMRIB
+http://www.fmrib.ox.ac.uk/fsl/flirt/index.html

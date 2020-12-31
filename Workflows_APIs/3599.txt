@@ -1,0 +1,4 @@
+http://genome.jgi.doe.gov
+http://ftp.ncbi.nih.gov/genomes/Bacteria
+http://genome.jgi.doe.gov
+http://ftp.ncbi.nih.gov/genomes/Bacteria

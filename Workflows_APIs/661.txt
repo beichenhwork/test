@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.pathwaycommons.org/pc/webservice.do?version=2.0&amp;format=xml&amp;cmd=search&amp;q=
+http://www.pathwaycommons.org/pc/webservice.do&gt;WHERE
+http://bio2rdf.org/bio2rdf#xTaxon&gt
+http://bio2rdf.org/taxon:TAXON&gt

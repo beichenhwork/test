@@ -1,0 +1,13 @@
+http://bioextract.org
+http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
+http://align.genome.jp/clustalw/clustalw_help.html
+http://www.ebi.ac.uk/soaplab/services/nucleic_translation.transeq
+http://emboss.sourceforge.net/apps/release/6.0/emboss/apps/transeq.html
+http://www.ebi.ac.uk/soaplab/services/protein_2d_structure.garnier
+http://emboss.sourceforge.net/apps/release/6.1/emboss/apps/garnier.html
+http://www.ebi.ac.uk/soaplab/services/protein_composition.pepwindowall
+http://emboss.sourceforge.net/apps/release/6.1/emboss/apps/pepwindowall.html
+http://www.ebi.ac.uk/soaplab/services/protein_composition.pepinfo
+http://emboss.sourceforge.net/apps/release/6.1/emboss/apps/pepinfo.html
+http://www.ebi.ac.uk/soaplab/services/protein_composition.octanol
+http://emboss.sourceforge.net/apps/release/6.1/emboss/apps/octanol.html

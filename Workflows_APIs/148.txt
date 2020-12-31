@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.mygrid.org.uk/menagerie/xfire/Primatives-re?wsdl
+http://www.mygrid.org.uk/menagerie/xfire/Primatives-re?wsdl
+http://www.mygrid.org.uk/menagerie/xfire/Primatives-re?wsdl

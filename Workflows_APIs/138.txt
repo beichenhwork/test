@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.nig.ac.jp/wsdl/Blast.wsdl
+http://www.ebi.ac.uk/soaplab/emboss4/services/protein_motifs.pscan
+http://www.ebi.ac.uk/soaplab/emboss4/services/protein_motifs.patmatmotifs

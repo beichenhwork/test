@@ -1,0 +1,8 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ncbi.nlm.nih.gov/
+http://www.bioinformatics.nl/gi/
+https://www.bioinformatics.nl/phenolink/home/
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl

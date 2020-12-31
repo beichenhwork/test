@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#carriesInputType&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#StageMatrix&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#carriesInputType&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#FecundityColumns&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#carriesInputType&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#FecundityRows&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#carriesResultType&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#FundamentalMatrix&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#performsTask&gt
+http://www.semanticweb.org/ontologies/2012/11/popmod.owl#FundamentalMatrixCalculation&gt

@@ -1,0 +1,10 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/soaplab/emboss4/services/nucleic_profiles::prophet
+http://www.ebi.ac.uk/soaplab/emboss4/services/nucleic_profiles::prophecy
+http://www.ebi.ac.uk/soaplab/emboss4/services/protein_2d_structure::tmap
+http://www.ebi.ac.uk/soaplab/emboss4/services/edit::seqret
+http://www.ebi.ac.uk/soaplab/emboss4/services/nucleic_translation::transeq
+http://www.ebi.ac.uk/soaplab/emboss4/services/edit::seqret
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple::emma
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple::prettyplot
+http://www.mygrid.org.uk/ontology#domain_concept

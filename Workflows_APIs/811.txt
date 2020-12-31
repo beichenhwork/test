@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://fhrg.first.fraunhofer.de:8080/gwes/services/GWES?wsdl
+http://fhrg.first.fraunhofer.de:8080/gwes/services/GWES?wsdl
+http://fhrg.first.fraunhofer.de:8080/gwes/services/GWES?wsdl

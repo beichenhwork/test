@@ -1,0 +1,1 @@
+prefix wp:      <http://vocabularies.wikipathways.org/wp#>prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#>prefix dcterms:  <http://purl.org/dc/terms/>select distinct ?mb ?label where {  ?mb a wp:Metabolite ;     rdfs:label ?label .}

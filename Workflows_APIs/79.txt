@@ -1,0 +1,8 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.mcisb.org/software/taverna/libsbml/index.html
+http://dbkgroup.org/peter/mcisb_glycolysis3-edited.xml
+http://dbkgroup.org/software/maxd/maxdBrowse/sequences/GeneHunterXHTMLCoreOutput/wsdl.xml
+http://www.sbml.org/2001/ns/celldesigner
+http://www.sbml.org/2001/ns/celldesigner
+http://dbk-ed.mib.man.ac.uk:8080/CellDesignerViz/services/CellDesignerViz?wsdl
+http://dbk-ed.mib.man.ac.uk:8080/YeastAffymapper/services/YeastAffymapper?wsdl

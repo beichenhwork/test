@@ -1,0 +1,4 @@
+http://rdf.myexperiment.org/ontologies/contributions/
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://rdf.myexperiment.org/ontologies/components/
+http://purl.org/dc/terms/

@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://purl.org/DP/components#portType&gt
+http://purl.org/DP/components#FromURIPort&gt
+http://purl.org/DP/components#providesMeasure&gt
+http://scape-project.eu/pw/vocab/measures/54&gt
+http://purl.org/DP/components#hasDependency&gt
+http://scape.keep.pt/vocab/dependencies#digital-preservation-tools-migration&gt
+http://purl.org/DP/components#fits&gt
+http://purl.org/DP/components#Characterisation&gt
+http://purl.org/DP/components#handlesMimetype&gt
+http://www.w3.org/2001/XMLSchema#string&gt

@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.myexperiment.org/workflows/967example
+http://soap.genome.jp/KEGG.wsdl
+http://bio2rdf.org/
+http://bio2rdf.org/searchns/kegg_
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://bio2rdf.org/ns/bio2rdf#SearchResults&gt
+http://bio2rdf.org/ns/search#query&gt
+http://bio2rdf.org/ns/search#resultCount&gt
+http://bio2rdf.org/ns/search#xProvider&gt
+http://bio2rdf.org/ns/kegg&gt
+http://bio2rdf.org/ns/search#xNamespace&gt
+http://bio2rdf.org/ns/
+http://bio2rdf.org/searchns/kegg_
+http://www.w3.org/2000/01/rdf-schema#seeAlso&gt

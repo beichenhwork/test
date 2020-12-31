@@ -1,0 +1,5 @@
+http://www.gridworkflow.org/gworkflowdl
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema
+http://www.gridworkflow.org/gworkflowdl
+http://www.gridworkflow.org/kwfgrid/src/xsd/gworkflowdl_1_1.xsd

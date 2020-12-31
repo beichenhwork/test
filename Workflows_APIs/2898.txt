@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.javablogging.com/sha1-and-md5-checksums-in-java/MessageDigest
+http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html
+http://www.oracle.com/technetwork/java/javase/downloads/jce-6-download-429243.html
+http://www.mygrid.org.uk/dev/wiki/display/taverna23/Supported+standards#Supportedstandards-JavaCryptographyPolicy

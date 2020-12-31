@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://helio-vo.eu/xml/QueryService/v0.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://festung1.oats.inaf.it:8080/helio-hec/HelioQueryService?&amp;amp;FROM=goes_sxr_flare&lt;/INFO&gt;&lt;INFO

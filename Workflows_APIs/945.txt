@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://helio.i4ds.technik.fhnw.ch:8080/core/services/frontend?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://core.helio.i4ds.ch/

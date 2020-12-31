@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://iapetus:9441/scape-data/test-data/sample1.mp3
+http://iapetus:9441/scape-data/test-data/sample2.wav
+http://purl.org/DP/components#fits&gt
+http://purl.org/DP/components#QAObjectComparison&gt
+http://purl.org/DP/components#handlesMimetypes&gt

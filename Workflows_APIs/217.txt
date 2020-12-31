@@ -1,0 +1,12 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/kalign
+http://www.ebi.ac.uk/Tools/webservices/services/kalign#runkalign_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSKalign.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/kalign#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSKalign.wsdl
+http://www.ebi.ac.uk/WSKalign
+http://www.ebi.ac.uk/WSKalign
+http://www.ebi.ac.uk/WSKalign
+http://www.ebi.ac.uk/WSKalign
+http://www.ebi.ac.uk/Tools/webservices/services/kalign#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSKalign.wsdl

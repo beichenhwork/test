@@ -1,0 +1,13 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getcurrentdatabase
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.parse_ddbj_gene_info
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.probeset_to_gene
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/uniprotsequence.uniprot
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getgenesbyspecies
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.probeset_in_qtl
+http://www.chilibot.net/
+http://phoebus.cs.man.ac.uk:1977/axis/services/text_mining.chilibot
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.parse_ddbj_gene_info

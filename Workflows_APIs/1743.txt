@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://ropot.ijs.si/webservices/janez/getvalues.php?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha

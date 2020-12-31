@@ -1,0 +1,2 @@
+http://rdf.farmbio.uu.se/chembl/onto/#
+http://purl.org/dc/elements/1.1/

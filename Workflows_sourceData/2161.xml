@@ -1,0 +1,1 @@
+// open this URL in a browser firstbioclipse.requireVersion("2.5")google.setUserCredentials("your.account", "secretPassword")google.listSpreadsheets()google.listWorksheets("SolubilitiesSum") // needs 2.5.0 from 2011-06-06 or laterspreadsheet = google.loadWorksheet("SolubilitiesSum", "Sheet1")

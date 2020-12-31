@@ -1,0 +1,9 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://server.gopubmedTermGenerationService.biotec.tud.de
+http://server.gopubmedTermGenerationService.biotec.tud.de
+http://server.gopubmedTermGenerationService.biotec.tud.de
+http://www.w3.org/2001/XMLSchema
+http://server.gopubmedTermGenerationService.biotec.tud.de
+http://gopubmed4.biotec.tu-dresden.de/GoPubMedTermGenerationService/services/GoPubMedTermGeneration?wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/text_mining.clean_text

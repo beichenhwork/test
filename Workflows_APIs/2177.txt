@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8080/axis2/services/SCAPECompareExtractedImageFeatureswithMetricparameter10Service?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org/opflabs/scape/tb
+http://org/opflabs/scape/tb
+http://org/opflabs/scape/tb
+http://org/opflabs/scape/tb
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org/opflabs/scape/tb
+http://org/opflabs/scape/tb
+http://org/opflabs/scape/tb
+http://org/opflabs/scape/tb

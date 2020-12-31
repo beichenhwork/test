@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/webservices/whatizit/info.jsf
+http://www.ebi.ac.uk/webservices/whatizit/ws?wsdl
+http://www.ebi.ac.uk/webservices/whatizit/ws
+http://www.ebi.ac.uk/webservices/whatizit/ws

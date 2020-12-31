@@ -1,0 +1,5 @@
+http://bioextract.org
+http://www.ebi.ac.uk/soaplab/services/nucleic_primers.eprimer3
+http://emboss.sourceforge.net/apps/release/6.1/emboss/apps/eprimer3.html
+http://emboss.sourceforge.net/docs/themes/SequenceFormats.html
+http://bioservices.usd.edu/opal/services/RestrictionMapper_BioExtract

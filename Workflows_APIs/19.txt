@@ -1,0 +1,12 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getcurrentdatabase
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://phoebus.cs.man.ac.uk:8081/axis/EnsemblListner.jws?wsdl
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://www.biomart.org/biomart/martservice

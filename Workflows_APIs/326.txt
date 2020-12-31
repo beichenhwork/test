@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://www.ebi.ac.uk/~tmo/defaultMartRegistry.xml
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha

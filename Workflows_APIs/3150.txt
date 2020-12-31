@@ -1,0 +1,3 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://secchirh.obspm.fr/survey.php?hour=day&amp;dayofyear=
+http://secchirh.obspm.fr/

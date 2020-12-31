@@ -1,0 +1,3 @@
+http://vocabularies.wikipathways.org/wp#
+http://www.w3.org/2000/01/rdf-schema#
+http://purl.org/dc/terms/

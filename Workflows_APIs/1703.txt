@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+https://heater.cs.man.ac.uk:7443/axis/services/HelloService-PlaintextPassword?wsdl
+https://heater.cs.man.ac.uk:7443/axis/services/HelloService-PlaintextPassword-Timestamp?wsdl
+https://heater.cs.man.ac.uk:7443/axis/services/HelloService-DigestPassword?wsdl
+https://heater.cs.man.ac.uk:7443/axis/services/HelloService-DigestPassword-Timestamp?wsdl

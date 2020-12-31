@@ -1,0 +1,3 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rest.kegg.jp/get/ko
+http://amigo.geneontology.org/amigo/term/

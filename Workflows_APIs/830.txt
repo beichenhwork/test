@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservices.genouest.org/typedservices/BioQuali.wsdl
+http://nbcr.sdsc.edu/opal/types
+http://webservices.genouest.org/typedservices/BioQuali.wsdl
+http://nbcr.sdsc.edu/opal/types
+http://nbcr.sdsc.edu/opal/types
+http://webservices.genouest.org/typedservices/BioQuali.wsdl
+http://nbcr.sdsc.edu/opal/types
+http://nbcr.sdsc.edu/opal/types

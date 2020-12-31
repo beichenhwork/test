@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://gatkforums.broadinstitute.org/gatk/discussion/1601/how-can-i-prepare-a-fasta-file-to-use-as-reference
+https://www.broadinstitute.org/gatk/download/
+ftp://ftp.ncbi.nih.gov/snp/

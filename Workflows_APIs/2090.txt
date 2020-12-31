@@ -1,0 +1,14 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?id=
+http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSummary_041029.dtd
+http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=
+http://www.ncbi.nlm.nih.gov/projects/geo/info/MINiML
+http://www.w3.org/2001/XMLSchema-instance
+http://www.ncbi.nlm.nih.gov/projects/geo/info/MINiML
+http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd
+http://www.ncbi.nlm.nih.gov/geo&lt;/Web-Link&gt
+http://www.ncbi.nlm.nih.gov/projects/geo/info/MINiML
+http://www.w3.org/2001/XMLSchema-instance
+http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSummary_041029.dtd
+http://rpc295.cs.man.ac.uk:8081/RAWS/plot
+http://rpc295.cs.man.ac.uk:8081/RAWS/resources/demo/geo-data/raw-data?column_separators=

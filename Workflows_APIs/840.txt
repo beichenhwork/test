@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://amc-app1.amc.sara.nl/luyf/MoteurXML/wsdl/gasw_service.wsdl
+http://amc-app1.amc.sara.nl/luyf/MoteurXML/wsdl/gasw_service.wsdl
+http://amc-app1.amc.sara.nl/luyf/MoteurXML/wsdl/gasw_service.wsdl

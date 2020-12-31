@@ -1,0 +1,8 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://seqservice/
+http://seqservice/
+http://www.w3.org/2001/XMLSchema
+http://localhost:9000/SeqService?wsdl
+http://localhost:9000/SeqService?wsdl
+http://localhost:9000/SeqService?wsdl
+http://www.myexperiment.org/workflows/222/download?version=1

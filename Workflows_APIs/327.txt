@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://dbk-ed.ch.umist.ac.uk:8080/axis/services/linking.srslinks

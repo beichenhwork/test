@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://ui.egee.creatis.insa-lyon.fr:8080/fgate/fgate.ph
+http://egee1.unice.fr/wsdl/gasw_service_10_6.wsdl
+http://egee1.unice.fr/wsdl/gasw_service.wsdl
+http://ui.egee.creatis.insa-lyon.fr:8080/wsdl/gateTask_service.wsdl

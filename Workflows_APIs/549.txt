@@ -1,0 +1,13 @@
+ftp://fs0.das3.cs.vu.nl/home/vleroot/wsvlam/repository/
+https://elab.science.uva.nl:8443/wsrf/services/RTSMFactoryService
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+file://fs2.das3.science.uva.nl/home/adam/Sigwin/TEST-REMOVE
+http://www.vl-e.nl/SP2.5

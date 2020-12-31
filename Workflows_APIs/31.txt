@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://rdf.adaptivedisclosure.org/~marco/BioAID/Public/Workflows/BioAID/BioAID_protein_discovery.xml
+http://rdf.adaptivedisclosure.org/~marco/BioAID/Public/Workflows/BioAID/BioAID_protein_discovery.xml
+http://rdf.adaptivedisclosure.org/~marco/BioAID/Public/Workflows/BioAID/BioAID_protein_discovery.xml

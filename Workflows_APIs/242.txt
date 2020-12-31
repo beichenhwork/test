@@ -1,0 +1,12 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webservicex.com/globalweather.asmx?WSDL
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webservicex.com/globalweather.asmx?WSDL
+http://www.webserviceX.NET
+http://www.webserviceX.NET

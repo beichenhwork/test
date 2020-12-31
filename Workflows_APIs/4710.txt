@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://webservice.wikipathways.org/getXrefList?pwId=
+http://www.wso2.org/php/xsd
+http://www.wikipathways.org/webservice
+http://www.wikipathways.org/webservice
+http://www.wso2.org/php/xsd

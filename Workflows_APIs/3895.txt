@@ -1,0 +1,16 @@
+http://bioextract.org
+http://www.nature.com/nprot/journal/v7/n3/full/nprot.2012.016.html
+http://tophat.cbcb.umd.edu/
+http://tophat.cbcb.umd.edu/
+http://tophat.cbcb.umd.edu/
+http://tophat.cbcb.umd.edu/
+http://tophat.cbcb.umd.edu/
+http://tophat.cbcb.umd.edu/
+http://cufflinks.cbcb.umd.edu/manual.html
+http://cufflinks.cbcb.umd.edu/manual.html
+http://cufflinks.cbcb.umd.edu/manual.html
+http://cufflinks.cbcb.umd.edu/manual.html
+http://cufflinks.cbcb.umd.edu/manual.html
+http://cufflinks.cbcb.umd.edu/manual.html
+http://cufflinks.cbcb.umd.edu/manual.html#cuffmerge
+http://cufflinks.cbcb.umd.edu/manual.html#cuffdiff

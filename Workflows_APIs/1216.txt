@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://hec.ts.astro.it/sec_ui.php
+http://hec.ts.astro.it/sec_ui.php
+http://hec.ts.astro.it/sec_ui.php
+http://www.ivoa.net/xml/VOTable/v1.1
+http://helio.oato.inaf.it:8080/HECService/HECService?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://service.hec/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://service.hec/

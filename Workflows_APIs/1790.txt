@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioputer.mimuw.edu.pl/tav4sb/models/enzyme.csl
+http://www.prismmodelchecker.org/manual/ThePRISMLanguage/CostsAndRewards
+http://bioputer.mimuw.edu.pl/tav4sb/models/enzyme.rew
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://bioputer.mimuw.edu.pl/tav4sb/models/enzyme_stoch.xml
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/ws_prism.xml
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/ws_sbml2Prism.xml
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/parametrizePrismModel.bsh

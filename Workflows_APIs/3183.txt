@@ -1,0 +1,13 @@
+http://spinfo.uni-koeln.de/tesla
+http://www.spinfo.phil-fak.uni-koeln.de/sschwieb.html
+http://tika.apache.org
+http://download.oracle.com/javase/6/docs/api/java/util/Locale.html
+http://download.oracle.com/javase/6/docs/api/java/text/BreakIterator.html
+http://www.spinfo.phil-fak.uni-koeln.de/sschwieb.html
+http://www.w3.org/2001/XMLSchema-instance
+http://www.spinfo.phil-fak.uni-koeln.de/sschwieb.html
+http://en.wikipedia.org/wiki/Tf%E2%80%93idf
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance
+http://en.wikipedia.org/wiki/Likelihood_function
+http://texperimentales.hypotheses.org

@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://biordf.net/sparql
+http://sadiframework.org/registry/
+http://sadiframework.org/examples/uniprot2pdb
+http://biordf.net/sparql
+http://sadiframework.org/registry/
+http://sadiframework.org/services/renderProteinStructure

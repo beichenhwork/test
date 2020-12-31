@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://127.0.0.1/CowSeq.xml
+http://127.0.0.1/CowSeq.xml
+http://127.0.0.1/CowSeq.xml
+http://127.0.0.1/CowSeq.xml
+http://127.0.0.1/CowSeq.xml
+http://127.0.0.1/CowSeq.xml

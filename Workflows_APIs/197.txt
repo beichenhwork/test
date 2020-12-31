@@ -1,0 +1,11 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/wublast
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl
+http://www.ebi.ac.uk/WSWUBlast
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSWUBlast.wsdl

@@ -1,0 +1,15 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/sss/ncbi_blast_soap
+http://www.ebi.ac.uk/Tools/services/soap/ncbiblast?wsdl
+http://soap.jdispatcher.ebi.ac.uk
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://soap.jdispatcher.ebi.ac.uk
+http://www.ebi.ac.uk/Tools/services/soap/ncbiblast?wsdl
+http://soap.jdispatcher.ebi.ac.uk
+http://soap.jdispatcher.ebi.ac.uk
+http://www.w3.org/2001/XMLSchema
+http://soap.jdispatcher.ebi.ac.uk
+http://www.ebi.ac.uk/Tools/services/soap/ncbiblast?wsdl
+http://soap.jdispatcher.ebi.ac.uk
+http://soap.jdispatcher.ebi.ac.uk

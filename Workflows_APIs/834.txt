@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://es-01.chibi.ubc.ca/jServices/services/UniprotAPI?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://uniprot.ora.com
+http://uniprot.ora.com
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://uniprot.ora.com
+http://uniprot.ora.com
+http://www.w3.org/2001/XMLSchema

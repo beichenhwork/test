@@ -1,0 +1,14 @@
+http://taverna.sf.net/2008/xml/t2flow
+https://array.nci.nih.gov/caarray/.Returns
+https://array.nci.nih.gov/caarray/.Returns
+https://array.nci.nih.gov/caarray/
+https://array.nci.nih.gov/caarray/
+http://array.nci.nih.gov/wsrf/services/cagrid/CaArraySvc_v1_0?wsdl
+http://www.w3.org/2001/XMLSchema-instance
+http://grid.v1_0.external.services.caarray.nci.nih.gov/CaArraySvc_v1_0
+http://array.nci.nih.gov/wsrf/services/cagrid/CaArraySvc_v1_0?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://grid.v1_0.external.services.caarray.nci.nih.gov/CaArraySvc_v1_0
+http://grid.v1_0.external.services.caarray.nci.nih.gov/CaArraySvc_v1_0
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/XMLSchema-instance

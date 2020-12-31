@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.nig.ac.jp/wsdl/GetEntry.wsdl
+http://xml.nig.ac.jp/wsdl/Blast.wsdl
+http://xml.nig.ac.jp/wsdl/Blast.wsdl
+http://xml.nig.ac.jp/wsdl/Blast.wsdl

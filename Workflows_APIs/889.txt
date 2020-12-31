@@ -1,0 +1,4 @@
+http://en.wikipedia.org/wiki/Farnesolquery
+http://dbpedia.org/data/
+http://dbpedia.org/data/
+http://dbpedia.org/property/

@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://kegg.bio2rdf.org/sparql?default-graph-uri=&amp;query=SELECT+%3FPathway+%0D%0AWHERE+
+http://bio2rdf.org/
+http://bio2rdf.org/
+http://kegg.bio2rdf.org/sparql?default-graph-uri=&amp;query=CONSTRUCT+
+http://localhost:8890/sparql?default-graph-uri=temp&amp;query=SELECT+count

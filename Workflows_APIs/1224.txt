@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://130.209.58.149:18081/wsrf/services/org/globus/services/core/NeISSAccessorService?wsdl
+http://130.209.58.149:18081/wsrf/services/org/globus/services/core/NeISSAccessorService
+http://130.209.58.149:18081/wsrf/services/org/globus/services/core/NeISSAccessorService?wsdl
+http://130.209.58.149:18081/wsrf/services/org/globus/services/core/NeISSAccessorService?wsdl
+http://130.209.58.149:18081/wsrf/services/org/globus/services/core/NeISSAccessorService?wsdl

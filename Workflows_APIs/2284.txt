@@ -1,0 +1,15 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.wolfram.com/mathematica/
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://www.w3.org/2001/XMLSchema
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/mathematica
+http://www.w3.org/2001/XMLSchema
+http://localhost:8080/tav4sb/services?wsdl
+http://localhost/tav4sb/workflows/setDistributionXml.bsh
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://reference.wolfram.com/legacy/v7/guide/StatisticalDistributions.html
+http://en.wikipedia.org/wiki/Latin_hypercube_sampling

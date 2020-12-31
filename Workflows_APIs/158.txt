@@ -1,0 +1,14 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://www.ebi.ac.uk/soaplab/emboss4/services/edit.seqret
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple.prettyplot
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple.emma
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://www.biomart.org/biomart/martservice
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://www.biomart.org/biomart/martservice
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://www.biomart.org/biomart/martservice
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://www.biomart.org/biomart/martservice
+http://www.mygrid.org.uk/ontology#domain_concept

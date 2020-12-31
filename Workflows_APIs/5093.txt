@@ -1,0 +1,2 @@
+https://tools.wmflabs.org/quickstatements/concept
+https://query.wikidata.org/sparql

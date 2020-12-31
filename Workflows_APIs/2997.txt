@@ -1,0 +1,9 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://ws.biosemantics.org/ConceptProfileMiningService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema

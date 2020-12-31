@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53SampleNames
+http://bioinformatics.istge.it:8080/axis/services/cabri.getCellLineNames
+http://www.o2i.it:8080/axis/services/o2i.getP53MutationsBySampleName
+http://bioinformatics.istge.it:8080/axis/services/cabri.getCellLineByName
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationIdsBySampleName
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53PubMedIdByRefId

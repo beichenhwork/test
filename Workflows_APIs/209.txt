@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDbfetch.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch#fetchbatch_db_ids_format_style
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDbfetch.wsdl

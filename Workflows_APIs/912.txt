@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://bioinformatics.ua.pt/GeNS/WS/Service.asmx?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioinformatics.ua.pt/applications/gens
+http://bioinformatics.ua.pt/applications/gens
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioinformatics.ua.pt/applications/gens
+http://bioinformatics.ua.pt/applications/gens
+http://bioinformatics.ua.pt/applications/gens
+http://bioinformatics.ua.pt/applications/gens
+http://bioinformatics.ua.pt/applications/gens
+http://bioinformatics.ua.pt/applications/gens

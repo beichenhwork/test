@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8081/axis2/services/MSASimilarityEstimation?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://service.pojo.sample
+http://service.pojo.sample
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://service.pojo.sample
+http://service.pojo.sample

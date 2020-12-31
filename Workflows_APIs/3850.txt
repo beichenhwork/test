@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservices.nencki-genomics.org/genomic?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema

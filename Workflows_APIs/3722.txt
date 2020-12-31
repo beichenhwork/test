@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://sequenomics.biosemantics.org/ConceptProfileMiningService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptprofilemining.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptprofilemining.lumc.nl/
+http://services.conceptprofilemining.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptprofilemining.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptprofilemining.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptprofilemining.lumc.nl/

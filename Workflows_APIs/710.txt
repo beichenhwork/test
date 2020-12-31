@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://rpc274.cs.man.ac.uk:8080/ondex/services/ondex-graph?wsdl
+http://webservice.ondex.sourceforge.net/
+http://webservice.ondex.sourceforge.net/
+http://webservice.ondex.sourceforge.net/

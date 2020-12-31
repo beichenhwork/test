@@ -1,0 +1,6 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/soaplab/emboss4/services/protein_2d_structure.tmap
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDbfetch.wsdl
+http://www.ebi.ac.uk/soaplab/emboss4/services/edit.seqret

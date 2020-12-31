@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://impex-portal.oeaw.ac.at:80/methods/taverna/SINP
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://smdc.sinp.msu.ru
+http://smdc.sinp.msu.ru
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha

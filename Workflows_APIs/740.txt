@@ -1,0 +1,15 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/soap/eutils.wsdl
+http://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=l&amp;cid=
+http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=
+http://www.ncbi.nlm.nih.gov/entrez/eutils/soap/v2.0/eutils.wsdl
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://www.ncbi.nlm.nih.gov/soap/eutils/esummary
+http://org.embl.ebi.escience/xscufliteration/0.1beta10

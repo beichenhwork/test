@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://gnode1.mib.man.ac.uk:8080/FullTextWebServices/TextCleanerService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservices.fulltextwebservices/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservices.fulltextwebservices/

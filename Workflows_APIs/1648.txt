@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rsg.pml.ac.uk/wps/generic.wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0
+http://taverna.sf.net/2008/xml/t2flow
+http://www.w3.org/2003/05/soap-envelope
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2003/05/soap-envelope
+http://www.w3.org/2003/05/soap-envelope
+http://www.w3.org/2003/05/soap-envelope
+http://www.w3.org/2001/XMLSchema-instance

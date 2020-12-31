@@ -1,0 +1,14 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.prismmodelchecker.org/manual/RunningPRISM/ModelChecking
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/setConstantCompactXmlList.bsh
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://www.w3.org/2001/XMLSchema
+http://bioputer.mimuw.edu.pl/tav4sb/services/wsdl
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/prism
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/prism
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/prism
+http://bioputer.mimuw.edu.pl/tav4sb/services/xsd/prism
+http://www.prismmodelchecker.org/manual/ThePRISMLanguage/PRISMLanguageFilesExample
+http://www.prismmodelchecker.org/manual/PropertySpecification/PropertiesFilesExample
+http://www.prismmodelchecker.org/manual/RunningPRISM/ExperimentsExample

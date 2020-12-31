@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://api.brain-map.org/api/v2/data/query.xml?criteria=model::SectionDataSet,rma::criteria,genes%5Bacronym
+http://api.brain-map.org/api/v2/data/query.xml?criteria=model::SectionImage,rma::criteria,%5Bdata_set_id
+http://api.brain-map.org/api/v2/section_image_download/

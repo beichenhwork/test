@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webservicex.net/Statistics.asmx?WSDL

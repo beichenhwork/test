@@ -1,0 +1,9 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8080/WebServiceTemperatureConverter/services/ConverterWS
+http://localhost:8080/WebServiceTemperatureConverter/services/ConverterWS?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.tutorial.com
+http://services.tutorial.com
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.tutorial.com
+http://services.tutorial.com

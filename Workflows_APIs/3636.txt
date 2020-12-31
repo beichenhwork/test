@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rdf.wikipathways.org/Pathway/WP2371_r54138
+http://sparql.wikipathways.org/?query=select%20distinct%20%3Ftitle%20%3Fpw%20%7B%20%3Fgp1%20a%20wp%3AGeneProduct%20%3B%20rdfs%3Alabel%20%22
+http://www.w3.org/2005/sparql-results#
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd
+http://rdf.wikipathways.org/Pathway/WP2371_r54138&lt;/uri&gt;&lt;/binding&gt
+http://www.w3.org/2005/sparql-results#
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2005/sparql-results#
+http://www.w3.org/2001/XMLSchema-instance
+http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd
+http://rdf.wikipathways.org/Pathway/WP2371_r54138&lt;/uri&gt;&lt;/binding&gt
+http://www.w3.org/2005/sparql-results#
+http://www.w3.org/2001/XMLSchema-instance

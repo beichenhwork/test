@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://vamdc.mssl.ucl.ac.uk/node/hitran/tap/
+http://voparis-twiki.obspm.fr/twiki/bin/view/VAMDC/TavernaUserGuide
+http://www.vamdc.euTaverna

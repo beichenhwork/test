@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://bio2rdf.org/labrie
+http://purl.org/dc/elements/1.1/created&gt
+http://purl.org/dc/elements/1.1/created&gt
+http://purl.org/dc/elements/1.1/created&gt
+http://purl.org/dc/elements/1.1/created&gt
+http://purl.org/dc/elements/1.1/created&gt
+http://purl.org/dc/elements/1.1/created&gt
+http://purl.org/dc/elements/1.1/created&gt
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?retmode=xml&amp;amp;tool=bio2rdf&amp;amp;db=

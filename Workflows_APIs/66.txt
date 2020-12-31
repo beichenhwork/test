@@ -1,0 +1,17 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://entry.addressbook.sample/xsd
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://service.addressbook.sample/xsd
+http://www.w3.org/2001/XMLSchema
+http://service.addressbook.sample/xsd
+http://entry.addressbook.sample/xsd
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://localhost:8080/axis2/services/AddressBookService?wsdl

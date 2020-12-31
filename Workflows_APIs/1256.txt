@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://xml.nig.ac.jp/rest/Invoke
+http://xml.nig.ac.jp/rest/Invoke
+http://xml.nig.ac.jp/rest/Invoke
+http://xml.nig.ac.jp/rest/Invoke

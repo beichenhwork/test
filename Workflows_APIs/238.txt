@@ -1,0 +1,5 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/uniprot/database/DBDescription.html#uniparc
+http://srs.ebi.ac.uk/srsbin/cgi-bin/wgetz?-page+LibInfo+-lib+IPRMC_UNIPARC
+http://www.ebi.ac.uk/~srs/wiki/doku.php?id=guides:linkingtosrs
+http://srs.ebi.ac.uk/srsbin/cgi-bin/wgetz?-e+-ascii+

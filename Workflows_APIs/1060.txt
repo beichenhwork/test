@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.nactem.ac.uk/software/termine/webservice/termine.wsdl
+http://www.nactem.ac.uk/software/termine/webservice/termine.xsd//but
+http://www.nactem.ac.uk/software/termine/webservice/termine.xsd//but

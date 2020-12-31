@@ -1,0 +1,3 @@
+http://taverna.sf.net/2008/xml/t2flow
+ftp://ftp.ncbi.nlm.nih.gov/pub/HomoloGene/current/homologene.data
+ftp://ftp.ncbi.nlm.nih.gov/pub/HomoloGene/README

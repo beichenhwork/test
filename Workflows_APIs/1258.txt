@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://xml.nig.ac.jp/rest/Invoke
+http://xml.nig.ac.jp/rest/Invoke
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi

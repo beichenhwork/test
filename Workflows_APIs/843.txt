@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://nactem.mib.man.ac.uk:8082/SentenceBreaker/SentBreakerService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://soapservices/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://soapservices/
+http://www.nactem.ac.uk/software/termine/webservice/termine.wsdl

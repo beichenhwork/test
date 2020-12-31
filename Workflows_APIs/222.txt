@@ -1,0 +1,13 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.tcoffee.org/
+http://www.ebi.ac.uk/Tools/webservices/services/tcoffee
+http://www.ebi.ac.uk/Tools/webservices/services/tcoffee#runtcoffee_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSTCoffee.wsdl
+http://www.ebi.ac.uk/WSTCoffee
+http://www.ebi.ac.uk/WSTCoffee
+http://www.ebi.ac.uk/WSTCoffee
+http://www.ebi.ac.uk/WSTCoffee
+http://www.ebi.ac.uk/Tools/webservices/services/tcoffee#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSTCoffee.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/tcoffee#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSTCoffee.wsdl

@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://amigo.geneontology.org/cgi-bin/amigo/browse.cgi
+http://www.ebi.ac.uk/ontology-lookup/
+http://www.ebi.ac.uk/ontology-lookup/
+http://www.ebi.ac.uk/ontology-lookup/
+http://www.ebi.ac.uk/pride/q.do?accession=
+http://www.biomart.org/biomart/martservice

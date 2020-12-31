@@ -1,0 +1,6 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getcurrentdatabase
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.probeset_to_gene
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getgenesbyspecies
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.probeset_in_qtl

@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.esynaps.com/WebServices/DailyDiblert.asmx?WSDL
+http://tempuri.org/
+http://tempuri.org/

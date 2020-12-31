@@ -1,0 +1,14 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://voparis-helio.obspm.fr/hfc-hqi/HelioTavernaService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://helio-vo.eu/xml/QueryService/v0.1
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://msslkz.mssl.ucl.ac.uk/helio_hec/HelioTavernaService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://helio-vo.eu/xml/QueryService/v0.1
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://helio-vo.eu/xml/QueryService/v0.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://festung1.oats.inaf.it:8080/helio-hec/HelioQueryService?&amp;amp;FROM=goes_sxr_flare&lt;/INFO&gt;&lt;INFO

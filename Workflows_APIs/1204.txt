@@ -1,0 +1,3 @@
+http://www.opentox.org/dev/apis/api-1.1var
+http://apps.ideaconsult.net:8080/ambit2/
+http://apps.ideaconsult.net:8080/ontology/

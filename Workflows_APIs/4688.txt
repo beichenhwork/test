@@ -1,0 +1,5 @@
+http://ptolemy.eecs.berkeley.edu/xml/dtd/MoML_1.dtd
+http://ptolemy.eecs.berkeley.edu/papers/05/ptIIdesign3-domains/ptIIdesign3-domains.pdf
+http://opendap.bom.gov.au:8080/thredds/dodsC/avhrr_ndvi_1km_monthly/2012/C-bawap.D1-20120101.D2-20120131.I-P1M.V-ndvi-1km-1month.P-raw.DC-20120201T000915.DM-20120604T004651.nc
+http://test.opendap.org/opendap/data/nc/fnoc1.nc
+http://test.opendap.org/opendap/data/nc/fnoc1.nc

@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.ddbj.nig.ac.jp/wsdl/Blast.wsdl
+http://phoebus.cs.man.ac.uk:8081/axis/services/seq_analysis.genscan
+http://www.ebi.ac.uk/soaplab/services/protein_motifs.patmatmotifs

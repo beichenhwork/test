@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://taverna.sf.net/2008/xml/t2flow
+http://modeller.cria.org.br/ws2/om?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://openmodeller.cria.org.br/ws/2.0
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://openmodeller.cria.org.br/ws/2.0

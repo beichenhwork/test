@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://130.88.197.210/maxdBrowse_export/maxdBrowse.wsdl

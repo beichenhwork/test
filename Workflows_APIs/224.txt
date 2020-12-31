@@ -1,0 +1,15 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/maxsprout
+http://www.ebi.ac.uk/WSMaxsprout
+http://www.ebi.ac.uk/WSMaxsprout
+http://www.ebi.ac.uk/WSMaxsprout
+http://www.ebi.ac.uk/WSMaxsprout
+http://www.ebi.ac.uk/Tools/webservices/services/maxsprout#runmaxsprout_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMaxsprout.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/maxsprout#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMaxsprout.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/maxsprout#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMaxsprout.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch
+http://www.ebi.ac.uk/Tools/webservices/services/dbfetch
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDbfetch.wsdl

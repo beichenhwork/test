@@ -1,0 +1,3 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://130.88.197.210/maxdBrowse/maxdBrowse.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.affy_ids

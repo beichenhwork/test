@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8890/
+http://localhost:8890/sparql
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://atlas.bio2rdf.org/sparql
+http://localhost:8890/sparql
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://atlas.bio2rdf.org/sparql
+http://localhost:8890/sparql
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt
+http://atlas.bio2rdf.org/sparql
+http://atlas.bio2rdf.org/sparql

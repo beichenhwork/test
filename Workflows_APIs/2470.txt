@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.webservicex.net/globalweather.asmx?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://www.geonames.org/export/web-services.html#srtm3
+http://www2.jpl.nasa.gov/srtm/
+http://api.geonames.org/srtm3?lat=

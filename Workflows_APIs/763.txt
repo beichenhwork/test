@@ -1,0 +1,11 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl-biomart/0.1alpha
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://www.biomart.org
+http://www.biomart.org
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://www.biomart.org
+http://www.biomart.org
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10

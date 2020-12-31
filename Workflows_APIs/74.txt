@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://lucene.apache.org/java/2_9_1/queryparsersyntax.html
+http://www.uniprot.org/
+http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=
+http://ws.adaptivedisclosure.org/axis/services/SearcherWS?wsdl
+http://ws.adaptivedisclosure.org/axis/services/CRFapply?wsdl
+http://ws.adaptivedisclosure.org/axis/services/CRFapply?wsdl
+http://ws.adaptivedisclosure.org/axis/services/CRFapply?wsdl
+http://ws.adaptivedisclosure.org/axis/services/tokenize?wsdl
+http://www.biomart.org/biomart/martservice

@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.ebi.ac.uk/biomodels-main/services/BioModelsWebServices?wsdl
+http://www.ebi.ac.uk/biomodels-main/services/BioModelsWebServices?wsdl
+http://www.ebi.ac.uk/biomodels-main/services/BioModelsWebServices?wsdl

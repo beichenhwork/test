@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.webservicex.net/uklocation.asmx?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.webserviceX.NET
+http://www.webserviceX.NET

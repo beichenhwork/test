@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+https://ws1.grid.sara.nl/~glatard/feat_descriptions/feat_group_noroi.xml
+https://ws1.grid.sara.nl/~glatard/feat_descriptions/roi_stats.xml
+http://egee1.unice.fr/wsdl/gasw_service.wsdl
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://egee1.unice.fr/wsdl/gasw_service_16_6.wsdl
+http://org.embl.ebi.escience/xscufliteration/0.1beta10

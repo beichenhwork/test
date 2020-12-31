@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://bio2rdf.org/
+http://bio2rdf.org/
+http://localhost:8890/sparql?default-graph-uri=&amp;query=SELECT+DISTINCT+%3Fs%0D%0AWHERE+
+http://localhost:8890/sparql?default-graph-uri=&amp;query=SELECT+DISTINCT+%3Fo%0D%0AWHERE+
+http://bio2rdf.org/geneid:15275

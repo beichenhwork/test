@@ -1,0 +1,12 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://xml.nig.ac.jp/wsdl/Ensembl.wsdl
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.parse_ddbj_gene_info
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getcurrentdatabase
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.getgenesbyspecies
+http://soap.genome.jp/KEGG.wsdl
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://phoebus.cs.man.ac.uk:8081/axis/EnsemblListner.jws?wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://org.embl.ebi.escience/xscufliteration/0.1beta10

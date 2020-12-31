@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rsg.pml.ac.uk/wps/raster.wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.opengis.net/wps/1.0.0

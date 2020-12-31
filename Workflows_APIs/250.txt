@@ -1,0 +1,11 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/ontology-lookup/
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery.wsdl
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://www.ebi.ac.uk/ontology-lookup/OntologyQuery
+http://xml.apache.org/xml-soap
+http://xml.apache.org/xml-soap
+http://xml.apache.org/xml-soap

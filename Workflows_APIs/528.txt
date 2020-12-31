@@ -1,0 +1,6 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://xml.nig.ac.jp/tutorial/rest/index.html
+http://xml.nig.ac.jp/index.html#servicesThis
+http://xml.nig.ac.jp/wabi/Method?serviceName=GetEntry&amp;mode=methodList&amp;lang=en
+http://xml.nig.ac.jp/index.html#services
+http://xml.ddbj.nig.ac.jp/rest/Invoke

@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.massbank.jp/api/services/MassBankAPI?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://api.massbank
+http://api.massbank
+http://www.w3.org/2001/XMLSchema

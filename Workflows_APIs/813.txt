@@ -1,0 +1,16 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://fhrg.first.fraunhofer.de:8080/gwes/services/GWES?wsdl
+http://fhrg.first.fraunhofer.de:8080/gwes/services/GWES?wsdl
+http://fhrg.first.fraunhofer.de:8080/gwes/services/GWES?wsdl
+http://www.gridworkflow.org/gworkflowdl
+http://www.w3.org/2001/XMLSchema
+http://www.gridworkflow.org/gworkflowdl/operationclass
+http://www.w3.org/2001/XMLSchema-instance
+http://www.gridworkflow.org/gworkflowdl
+http://www.gridworkflow.org/kwfgrid/src/xsd/gworkflowdl_2_0.xsd
+http://www.gridworkflow.org/gworkflowdl/operationclass
+http://www.gridworkflow.org/kwfgrid/src/xsd/gworkflowdl_operationclass_2_0.xsd
+http://fhrg.first.fraunhofer.de:8080/linuxtoolbox/images/text.png&lt;/property&gt
+http://fhrg.first.fraunhofer.de:8080/linuxtoolbox/services/Sort?wsdl
+http://fhrg.first.fraunhofer.de:8080/linuxtoolbox/images/text.png&lt;/property&gt
+http://fhrg.first.fraunhofer.de:8080/linuxtoolbox/services/Tail?wsdl

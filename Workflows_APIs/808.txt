@@ -1,0 +1,7 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://nbcr.sdsc.edu/opal/types
+http://nbcr.sdsc.edu/opal/types
+http://nbcr.sdsc.edu/opal/types
+http://nbcr.sdsc.edu/opal/types
+http://nbcr.sdsc.edu/opal/types
+http://webservices.genouest.org/typedservices/Tuiuiu.wsdl

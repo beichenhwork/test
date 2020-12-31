@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://modeller.cria.org.br/maps/Gu09z3.img
+http://biostif.at.biovel.eu/shim/rest/raster/
+http://modeller.cria.org.br/maps/Gu09z3.img
+http://biovel.iais.fraunhofer.de/geoserver/ows?service=WCS&amp;version=1.0.0&amp;request=GetCoverage&amp;sourcecoverage=biovel:Gu09z3_20120702_164025_455&amp;FORMAT=image/tiff&amp;bbox=-180.0,-90.0,180.0,90.0&amp;crs=EPSG:4326&amp;width=720&amp;height=360
+http://biovel.iais.fraunhofer.de/geoserver/ows?service=WMS&amp;version=1.1.0&amp;request=GetMap
+https://biovel.iais.fraunhofer.de/geoserver/biovel/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=biovel:Gu09z3_20120702_164025_455&amp;styles=&amp;bbox=-180.0,-90.0,180.0,90.0&amp;width=660&amp;height=330&amp;srs=EPSG:4326&amp;format=image/png

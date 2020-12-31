@@ -1,0 +1,16 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/blastpgp
+http://www.ebi.ac.uk/Tools/webservices/services/blastpgp#runblastpgp_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSBlastpgp.wsdl
+http://www.ebi.ac.uk/WSBlastpgp
+http://www.ebi.ac.uk/WSBlastpgp
+http://www.ebi.ac.uk/WSBlastpgp
+http://www.ebi.ac.uk/Tools/webservices/services/blastpgp#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSBlastpgp.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/blastpgp#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSBlastpgp.wsdl
+http://www.ebi.ac.uk/WSBlastpgp
+http://www.ebi.ac.uk/Tools/webservices/services/blastpgp#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSBlastpgp.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/blastpgp#getids_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSBlastpgp.wsdl

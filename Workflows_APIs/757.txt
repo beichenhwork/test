@@ -1,0 +1,8 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://cabernet.cng.fr:8080/snp2rdf/SNPToolWebService?wsdl
+http://ws.server.operon.cephb.fr/
+http://ws.server.operon.cephb.fr/
+http://ws.server.operon.cephb.fr/
+http://ws.server.operon.cephb.fr/
+http://cabernet.cng.fr:8080/snp2rdf/SNPToolWebService?wsdl
+http://ws.server.operon.cephb.fr/

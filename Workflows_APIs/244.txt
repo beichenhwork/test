@@ -1,0 +1,16 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/censor
+http://www.ebi.ac.uk/WSCensor
+http://www.ebi.ac.uk/WSCensor
+http://www.ebi.ac.uk/WSCensor
+http://www.ebi.ac.uk/WSCensor
+http://www.ebi.ac.uk/Tools/webservices/services/censor#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSCensor.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/censor#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSCensor.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/censor#runcensor_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSCensor.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/censor#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSCensor.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/censor#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSCensor.wsdl

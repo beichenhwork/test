@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://zulu.ijs.si:8086/SW_service?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/Stopwords/
+http://zulu.ijs.si:8086/SW_service?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/Stopwords/
+http://zulu.ijs.si:8086/TF_service?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.example.org/TextFiltering/
+http://ropot.ijs.si/webservices/janez/getvalues.php?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha

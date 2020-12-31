@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phoebus.cs.man.ac.uk:8081/axis/EnsemblListner.jws?wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl

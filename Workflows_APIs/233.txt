@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/dalilite
+http://www.ebi.ac.uk/Tools/webservices/services/dalilite#rundalilite_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDaliLite.wsdl
+http://www.ebi.ac.uk/WSDaliLite
+http://www.ebi.ac.uk/Tools/webservices/services/dalilite#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDaliLite.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/dalilite#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSDaliLite.wsdl

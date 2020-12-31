@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://openmodeller.sourceforge.net/web_service_2.html#toc16
+http://openmodeller.cria.org.br/ws/2.0
+http://openmodeller.cria.org.br/xml/2.0
+http://biovel.iais.fraunhofer.de/geoserver/ows?&lt;/url&gt
+http://biovel.iais.fraunhofer.de/geoserver/ows?&lt;/url&gt
+http://biovel.iais.fraunhofer.de/geoserver/ows?&gt;biovel_temp:NorwayExclEconZoneEEZ_2050-present_20140212_200910_127
+http://biovel.github.io/enm/select_layers_v3.html

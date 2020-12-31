@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://batz.lpma.jussieu.fr:8080/tapservice_11_12/TAP/sync?LANG=VSS2&amp;REQUEST=doQuery&amp;FORMAT=XSAMS&amp;QUERY=select+
+http://cdms.ph1.uni-koeln.de/DjCDMSdev/tap/sync?LANG=VSS2&amp;REQUEST=doQuery&amp;FORMAT=XSAMS&amp;QUERY=select+
+http://vamdc.mssl.ucl.ac.uk/taverna/vamdc/
+http://www.vamdc.euTaverna

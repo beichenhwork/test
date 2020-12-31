@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://ned.ipac.caltech.edu/cgi-bin/datasearch?ref_extend=no&amp;begin_year=1800&amp;end_year=2013&amp;of=xml_main&amp;search_type=Reference&amp;objname=
+http://ned.ipac.caltech.edu/cgi-bin/ex_refcode?refcode=
+http://ned.ipac.caltech.edu/forms/SearchRefsByObjectName.html

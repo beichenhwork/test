@@ -1,0 +1,12 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/phobius
+http://www.ebi.ac.uk/WSPhobius
+http://www.ebi.ac.uk/WSPhobius
+http://www.ebi.ac.uk/Tools/webservices/services/phobius#runphobius_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSPhobius.wsdl
+http://www.ebi.ac.uk/WSPhobius
+http://www.ebi.ac.uk/WSPhobius
+http://www.ebi.ac.uk/Tools/webservices/services/phobius#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSPhobius.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/phobius#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSPhobius.wsdl

@@ -1,0 +1,11 @@
+http://www.loni.ucla.edu/twiki/bin/view/CCB/PipelineWorkflows_fMRIFEAT
+http://loni.ucla.edu
+http://users.fmrib.ox.ac.uk/~mark/
+http://www.fmrib.ox.ac.uk/Members/steve
+http://www.fmrib.ox.ac.uk/fsl/fsl/licence.htmlLICENCEFMRIB
+http://www.fmrib.ox.ac.uk/fsl/avwutils/index.html
+http://www.fmrib.ox.ac.uk/fsl/fsl/licence.htmlLICENCEFMRIB
+http://www.fmrib.ox.ac.uk/fsl/feat5/index.html
+http://www.fmrib.ox.ac.uk/fsl/fsl/licence.htmlLICENCEFMRIB
+http://www.fmrib.ox.ac.uk/fsl/feat5/index.html
+http://www.loni.ucla.edu

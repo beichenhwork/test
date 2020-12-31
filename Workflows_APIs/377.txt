@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://grid.inb.uni-luebeck.de
+http://www.myexperiment.org/workflows/167/download
+http://www.myexperiment.org/workflows/167/download

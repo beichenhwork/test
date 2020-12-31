@@ -1,0 +1,6 @@
+http://bioextract.org
+http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
+http://www.vmatch.de/
+http://www.clustal.org/download/clustalw_help.txt
+http://bioservices.usd.edu/bioextract/help/make_mb_nex.html
+http://mrbayes.csit.fsu.edu

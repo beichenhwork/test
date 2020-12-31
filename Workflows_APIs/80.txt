@@ -1,0 +1,2 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://ws.adaptivedisclosure.org/axis/services/NERecognizerService?wsdl

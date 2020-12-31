@@ -1,0 +1,8 @@
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/matest.Rdata
+http://www.vl-e.nl/SP2.5
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/ftest-results.Rdata
+http://www.vl-e.nl/SP2.5
+file://fs2.das3.science.uva.nl/home/zhiming/Apple/maconcat.log
+http://www.vl-e.nl/SP2.5
+http://staff.science.uva.nl/~inda/SigWin-detector/html/modules.html

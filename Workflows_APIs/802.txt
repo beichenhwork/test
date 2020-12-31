@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://soap.g-language.org/g-language.wsdl
+http://soap.g-language.org/g-language.wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://soap.g-language.org/GLANG
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://soap.g-language.org/GLANG
+http://www.g-language.org/

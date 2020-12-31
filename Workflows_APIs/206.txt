@@ -1,0 +1,16 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/clustalw2
+http://www.ebi.ac.uk/Tools/webservices/services/clustalw2#runclustalw2_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSClustalW2.wsdl
+http://www.ebi.ac.uk/WSClustalW2
+http://www.ebi.ac.uk/WSClustalW2
+http://www.ebi.ac.uk/WSClustalW2
+http://www.ebi.ac.uk/WSClustalW2
+http://www.ebi.ac.uk/Tools/webservices/services/clustalw2#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSClustalW2.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/clustalw2#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSClustalW2.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/clustalw2#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSClustalW2.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/clustalw2#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSClustalW2.wsdl

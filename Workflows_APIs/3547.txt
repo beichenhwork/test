@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost:8181/Process?contents=
+http://www.xml-cml.org/schema
+http://www.chemspider.com/
+http://www.chemspider.com/
+http://www.chemspider.com/InChI.asmx?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.chemspider.com/
+http://www.chemspider.com/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.chemspider.com/
+http://www.chemspider.com/
+http://www.sourceforge.net/projects/oscar3-chem/

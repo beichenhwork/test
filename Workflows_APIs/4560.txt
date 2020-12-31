@@ -1,0 +1,9 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rest.kegg.jp/find/pathway/
+http://rest.kegg.jp/get/
+http://rest.kegg.jp/get/
+http://rest.kegg.jp/link/compound/
+http://rest.kegg.jp/get/
+http://www.myexperiment.org
+http://www.myexperiment.org
+http://www.myexperiment.org

@@ -1,0 +1,6 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://localhost/songs_new/
+http://localhost/genres/genres.txt
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://localhost:8080/fex/featureExtraction?wsdl

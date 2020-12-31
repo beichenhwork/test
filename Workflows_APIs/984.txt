@@ -1,0 +1,14 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.uniprot.org/
+http://bio2rdf.org/
+http://bio2rdf.org/searchns/uniprotkb_
+http://www.w3.org/2000/01/rdf-schema#seeAlso&gt
+http://bio2rdf.org/
+http://bio2rdf.org/searchns/uniprotkb_
+http://bio2rdf.org/ns/bio2rdf#Count&gt
+http://bio2rdf.org/searchns/uniprotkb_
+http://bio2rdf.org/ns/bio2rdf#xProvider&gt
+http://bio2rdf.org/ns/uniprotkb&gt
+http://bio2rdf.org/searchns/uniprotkb_
+http://bio2rdf.org/ns/bio2rdf#xNamespace&gt
+http://bio2rdf.org/ns/

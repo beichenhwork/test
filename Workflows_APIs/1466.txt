@@ -1,0 +1,17 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://helio-dev.i4ds.ch/xsd/instruments.xsd
+http://virtualsolar.org/VSO/VSOi?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://virtualsolar.org/VSO/VSOi
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://virtualsolar.org/VSO/VSOi?WSDL
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://virtualsolar.org/VSO/VSOi
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://helio-dev.i4ds.ch/xsd/instruments.xsd

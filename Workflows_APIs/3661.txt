@@ -1,0 +1,11 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://evs.gs.washington.edu/wsEVS/EVSDataQueryService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservice.evs.gs.washington.edu/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservice.evs.gs.washington.edu/
+http://webservice.evs.gs.washington.edu/
+http://webservice.evs.gs.washington.edu/
+http://webservice.evs.gs.washington.edu/
+http://webservice.evs.gs.washington.edu/
+http://www.w3.org/2001/XMLSchema

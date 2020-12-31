@@ -1,0 +1,14 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.geneontology.org
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl
+http://www.ebi.ac.uk/collab/mygrid/service1/goviz/GoViz.jws?wsdl

@@ -1,0 +1,17 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.w3.org/2001/XMLSchema-instance
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://www.ivoa.net/xml/VOTable/v1.1
+http://us-vo.org/xml/VOTable.dtd
+http://msslkz.mssl.ucl.ac.uk/cxs/uws/jobs
+http://www.ivoa.net/xml/UWS/v0.9.2
+http://www.w3.org/1999/xlink
+http://www.w3.org/2001/XMLSchema-instance
+http://www.ivoa.net/xml/UWS/v0.9.2
+http://www.ivoa.net/xml/UWS/v0.9.2
+http://www.w3.org/1999/xlink
+http://www.w3.org/2001/XMLSchema-instance
+http://taverna.sf.net/2008/xml/t2flow
+http://msslkz.mssl.ucl.ac.uk/cxs/uws/jobs/
+http://www.ivoa.net/xml/CEA/types/v1.2

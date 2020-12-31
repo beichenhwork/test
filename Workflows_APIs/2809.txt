@@ -1,0 +1,3 @@
+http://www.loni.ucla.edu/errors/
+http://www.loni.ucla.edu/twiki/bin/view/LONI/Pipeline_GenomicsInformatics_BayesAss
+http://www.loni.ucla.edu/twiki/bin/view/LONI/Pipeline_GenomicsInformatics_BayesAss

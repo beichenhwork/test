@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://amiga.iaa.es:9000/search/sia?POS=
+http://amiga.iaa.es:9000/datalink?ID=
+https://srv-prj-wsamiga.fcsc.es:8444/Amiga4GasServiceLadon/soap11/description
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema

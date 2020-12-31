@@ -1,0 +1,10 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://srs.o2i.it/srs71/
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationsByIds
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53IdsByField
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField
+http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField

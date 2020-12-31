@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://bioservices.sci.psu.ac.th/axis2/services/MSAGapsTrimming?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://msa
+http://msa
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://msa
+http://msa

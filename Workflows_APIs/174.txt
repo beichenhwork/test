@@ -1,0 +1,17 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+https://pieter:test@lab5.bioinformatics.nl/phenolink/home/TisMix_mix5a_01_v1_U133plus2.CEL
+https://www.bioinformatics.nl/phenolink/home/
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+https://lab5.bioinformatics.nl/phenolink/home/TisMix_mix5a_01_v1_U133plus2.CEL
+https://lab5.bioinformatics.nl/phenolink/home/TisMix_mix5a_02_v1_U133plus2.CEL
+https://lab5.bioinformatics.nl/phenolink/home/TisMix_mix5a_03_v1_U133plus2.CEL

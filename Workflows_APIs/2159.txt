@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.dasregistry.org/help_coordsys.jsp
+http://www.ebi.ac.uk/das-srv/uniprot/das/uniprot/
+http://www.server.com/das/source/
+http://www.dasregistry.org/listSources.jsp
+http://www.ebi.ac.uk/panda-srv/easydas/
+http://www.biodas.org/documents/spec-1.6.html#features
+http://en.wikipedia.org/wiki/List_of_HTTP_status_codes

@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.ensembl.org/info/docs/tools/vep/script/index.html
+https://www.broadinstitute.org/gatk/download/
+http://gatkforums.broadinstitute.org/gatk/discussion/1601/how-can-i-prepare-a-fasta-file-to-use-as-reference
+ftp://ftp.ncbi.nih.gov/snp/
+http://www.ensembl.org/info/docs/tools/vep/script/index.htmlThe
+http://www.ensembl.org/info/docs/tools/vep/script/index.html
+http://www.ensembl.org/info/docs/tools/vep/script/index.htmlThe

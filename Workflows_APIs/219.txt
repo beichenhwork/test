@@ -1,0 +1,13 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://align.bmr.kyushu-u.ac.jp/mafft/software/
+http://www.ebi.ac.uk/Tools/webservices/services/mafft
+http://www.ebi.ac.uk/Tools/webservices/services/mafft#runmafft_params_content
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMafft.wsdl
+http://www.ebi.ac.uk/WSMafft
+http://www.ebi.ac.uk/WSMafft
+http://www.ebi.ac.uk/WSMafft
+http://www.ebi.ac.uk/WSMafft
+http://www.ebi.ac.uk/Tools/webservices/services/mafft#poll_jobid_type
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMafft.wsdl
+http://www.ebi.ac.uk/Tools/webservices/services/mafft#checkstatus_jobid
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSMafft.wsdl

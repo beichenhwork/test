@@ -1,0 +1,6 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioputer.mimuw.edu.pl/tav4sb/models/enzyme.xml
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/ws_odeSolver.xml
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/ws_mathPlot.xml
+http://bioputer.mimuw.edu.pl/tav4sb/workflows/elementXml2dataXmlList.xml

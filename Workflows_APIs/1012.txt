@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://bioinformatics.istge.it:8080/axis/services/o2i.getIdsByMutaa
+http://srs.o2i.it/srs71/
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationFunctionEntryById
+http://srs.o2i.it/srs71/
+http://bioinformatics.istge.it:8080/axis/services/o2i.getP53CellLinesStatusEntryById
+http://bioinformatics.istge.it:8080/axis/services/o2i.getIdsByMutaa
+http://bioinformatics.istge.it:8080/axis/services/o2i.getIdsByCodonNumber
+http://bioinformatics.istge.it:8080/axis/services/o2i.getIdsByCodonNumber

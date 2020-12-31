@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.knowarc.eu
+http://www.nordugrid.org
+http://knowarc1.grid.niif.hu/wsdl/echo.wsdl

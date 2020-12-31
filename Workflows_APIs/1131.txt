@@ -1,0 +1,3 @@
+http://rdf.farmbio.uu.se/chembl/onto/#
+http://www.blueobelisk.org/chemistryblogs/
+http://rdf.farmbio.uu.se/chembl/target/t10885

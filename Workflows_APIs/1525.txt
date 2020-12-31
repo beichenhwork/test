@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://egee1.unice.fr/wsdl/gasw_service.wsdl
+http://egee1.unice.fr/wsdl/gasw_service.wsdl
+http://egee1.unice.fr/wsdl/gasw_service.wsdl

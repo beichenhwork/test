@@ -1,0 +1,16 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://purl.org/DP/components#portType&gt
+http://purl.org/DP/components#FromURIPort&gt
+http://purl.org/DP/components#portType&gt
+http://purl.org/DP/components#ToURIPort&gt
+http://purl.org/DP/components#portType&gt
+http://purl.org/DP/components#ActionStatusPort&gt
+http://purl.org/DP/components#hasDependency&gt
+http://scape.keep.pt/vocab/dependencies#digital-preservation-migration-image-imagemagick-image2jp2&gt
+http://purl.org/DP/components#migrates&gt
+http://purl.org/DP/components#fromMimetype&gt
+http://www.w3.org/2001/XMLSchema#string&gt
+http://purl.org/DP/components#toMimetype&gt
+http://www.w3.org/2001/XMLSchema#string&gt
+http://purl.org/DP/components#fits&gt
+http://purl.org/DP/components#MigrationAction&gt

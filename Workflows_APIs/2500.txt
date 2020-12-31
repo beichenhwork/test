@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://xml.nig.ac.jp/wsdl/Blast.wsdl
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?rettype=fasta&amp;db=protein&amp;retmode=text&amp;id=
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.blastsimplifier

@@ -1,0 +1,15 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rdf.biosemantics.org/emco/v1.5/concepts/C3054574
+http://rdf.biosemantics.org/emco/v1.5/concepts/C3058322
+http://ws.biosemantics.org/ConceptProfileMiningService?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://services.conceptrecognizer.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://services.conceptrecognizer.lumc.nl/

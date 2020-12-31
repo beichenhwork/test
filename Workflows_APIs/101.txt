@@ -1,0 +1,4 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.chemspider.com/MassSpecAPI.asmx?WSDL
+http://www.chemspider.com/
+http://www.chemspider.com/

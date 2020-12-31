@@ -1,0 +1,4 @@
+http://www.nmrshiftdb.org/onto#hasShift
+http://www.w3.org/2001/XMLSchema#decimal
+http://www.nmrshiftdb.org/onto#hasSpectrum
+http://www.nmrshiftdb.org/onto#hasPeak

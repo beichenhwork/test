@@ -1,0 +1,11 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.ebi.ac.uk/Tools/webservices/services/fasta
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSFasta.wsdl
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSFasta.wsdl
+http://www.ebi.ac.uk/WSFasta
+http://www.ebi.ac.uk/WSFasta
+http://www.ebi.ac.uk/WSFasta
+http://www.ebi.ac.uk/WSFasta
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSFasta.wsdl
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSFasta.wsdl
+http://www.ebi.ac.uk/Tools/webservices/wsdl/WSFasta.wsdl

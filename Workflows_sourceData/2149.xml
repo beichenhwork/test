@@ -1,0 +1,1 @@
+// JavaScriptopentox.getToken(); // return a null// log in on the OpenTox networkopentox.login("guest", "secretPassword")opentox.getToken(); // returns the active token// log out againopentox.logout()opentox.getToken(); // return again

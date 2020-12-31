@@ -1,0 +1,1 @@
+prefix wp:      <http://vocabularies.wikipathways.org/wp#>prefix dcterms: <http://purl.org/dc/terms/>prefix ncbi:    <http://purl.obolibrary.org/obo/NCBITaxon_>select distinct ?mb where {  ?mb a wp:Metabolite ;    dcterms:isPartOf ?pw .  ?pw wp:organism ncbi:9606 .} order by ?mb

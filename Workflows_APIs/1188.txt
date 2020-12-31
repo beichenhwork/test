@@ -1,0 +1,3 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?rettype=fasta&amp;db=nucleotide&amp;retmode=text&amp;id=
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?rettype=fasta&amp;db=nucleotide&amp;retmode=text&amp;id=

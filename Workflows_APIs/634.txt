@@ -1,0 +1,13 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://atlas.bio2rdf.org/sparql?default-graph-uri=&amp;query=SELECT+distinct+%3Fs2%0D%0AWHERE+
+http://localhost:8890/sparql?default-graph-uri=&amp;should-sponge=&amp;query=SELECT+%3Fcreator%2C+count
+http://atlas.bio2rdf.org/sparqlSELECT
+http://localhost:8890/sparql
+http://bio2rdf.org/bibtex#Article&gt
+http://purl.org/dc/elements/1.1/creator&gt
+http://bio2rdf.org/bibtex#Article&gt
+http://purl.org/dc/elements/1.1/creator&gt
+http://bio2rdf.org/bibtex#Article&gt
+http://purl.org/dc/elements/1.1/creator&gt
+http://bio2rdf.org/
+http://localhost:8890/sparql?default-graph-uri=&amp;should-sponge=soft&amp;query=SELECT+%3Fs%2C+%3Fo+FROM+&lt;http%3A%2F%2Fbio2rdf.org%2F

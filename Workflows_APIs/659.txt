@@ -1,0 +1,7 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.pathwaycommons.org/pc/webservice.do?cmd=get_record_by_cpath_id&amp;version=2.0&amp;output=biopax&amp;q=
+http://cbio.mskcc.org/cpath
+http://bio2rdf.org/cpath
+http://bio2rdf.org/cpath:IDENTIFIER&gt
+http://www.pathwaycommons.org/pc/webservice.do&gt;WHERE
+http://bio2rdf.org/cpath:IDENTIFIER&gt

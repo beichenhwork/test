@@ -1,0 +1,5 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://rest.kegg.jp/conv/
+http://rest.kegg.jp/link/pathway/
+http://rest.kegg.jp/get/
+http://rest.kegg.jp/get/

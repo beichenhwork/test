@@ -1,0 +1,12 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://soap.genome.jp/tmp/mark_pathway_www_api.126846700018802/hsa00010.png
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple.prettyplot
+http://xml.nig.ac.jp/wsdl/ClustalW.wsdl
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?rettype=fasta&amp;db=protein&amp;retmode=text&amp;id=
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl
+http://moby.ucalgary.ca/moby/MOBY-Central.pl

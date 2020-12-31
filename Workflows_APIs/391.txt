@@ -1,0 +1,8 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://www.pathvisio.org/Help_1.1#Supported_database_systems
+http://www.wikipathways.org/wpi/webservice/webservice.php?wsdl
+http://www.wso2.org/php/xsd
+http://www.wso2.org/php/xsd
+http://www.w3.org/2001/XMLSchema
+http://www.wso2.org/php/xsd
+http://www.w3.org/2001/XMLSchema

@@ -1,0 +1,1 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>PREFIX dbpedia: <http://dbpedia.org/ontology/>PREFIX dbprop: <http://dbpedia.org/property/>SELECT DISTINCT ?compound ?inchi WHERE {  ?compound a dbpedia:ChemicalCompound .  ?compound dbprop:section ?section .  ?section dbprop:inchi ?inchi .} ORDER BY ?compound LIMIT 100 OFFSET 0

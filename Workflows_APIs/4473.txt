@@ -1,0 +1,4 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://purl.org/DP/components#fits&gt
+http://purl.org/DP/components#QAObjectComparison&gt
+http://purl.org/DP/components#handlesMimetypes&gt

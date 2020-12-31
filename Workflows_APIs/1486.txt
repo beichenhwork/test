@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://www.gpcr.org/7tm/webservice/?wsdl
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservice.web.mcsis.cmbi.ru.nl/
+http://www.w3.org/2001/XMLSchema
+http://www.w3.org/2001/XMLSchema
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://webservice.web.mcsis.cmbi.ru.nl/

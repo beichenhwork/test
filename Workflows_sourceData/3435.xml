@@ -1,0 +1,1 @@
+prefix wp:      <http://vocabularies.wikipathways.org/wp#>prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#>prefix dcterms:  <http://purl.org/dc/terms/>select distinct ?identifierwhere {  ?mb a wp:Metabolite ;    dc:source "Kegg Compound"^^xsd:string ;    dc:identifier ?identifier .} order by ?identifier

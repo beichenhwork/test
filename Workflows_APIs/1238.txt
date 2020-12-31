@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://biordf.net/sparql
+http://sadiframework.org/registry/
+http://sadiframework.org/services/getKEGGGenesByPathway
+http://biordf.net/sparql
+http://sadiframework.org/registry/
+http://dev.biordf.net/~kawas/cgi-bin/getUniprotByKeggGene
+http://biordf.net/sparql
+http://sadiframework.org/registry/
+http://sadiframework.org/examples/uniprotInfo

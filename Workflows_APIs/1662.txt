@@ -1,0 +1,10 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://soap.genome.jp/KEGG.wsdl
+http://www.biomart.org/biomart/martservice
+http://phoebus.cs.man.ac.uk:1977/axis/services/qtl_analysis.flatten_pathway_files
+http://soap.genome.jp/KEGG.wsdl
+http://phoebus.cs.man.ac.uk:8081/axis/EnsemblListner.jws?wsdl

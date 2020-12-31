@@ -1,0 +1,9 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://phoebus.cs.man.ac.uk:1977/axis/services/seq_analysis.blastsimplifier
+http://www.ebi.ac.uk/soaplab/emboss4/services/phylogeny_tree_drawing.fdrawgram
+http://www.ebi.ac.uk/soaplab/emboss4/services/phylogeny_molecular_sequence.fprotdist
+http://www.ebi.ac.uk/soaplab/emboss4/services/phylogeny_distance_matrix.fneighbor
+http://www.ebi.ac.uk/soaplab/emboss4/services/phylogeny_tree_drawing.fdrawtree
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple.prettyplot
+http://www.ebi.ac.uk/soaplab/emboss4/services/alignment_multiple.emma
+http://xml.nig.ac.jp/wsdl/Blast.wsdl

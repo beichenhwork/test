@@ -1,0 +1,8 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://vamdc.mssl.ucl.ac.uk/taverna/vamdc/sme_data/twin.asc
+http://msslkz.mssl.ucl.ac.uk/proto_cea/uws/jobs
+http://msslkz.mssl.ucl.ac.uk/proto_cea/uws/jobs
+http://vald.astro.uu.se/atoms-dev/tap/
+http://vamdc.tmy.se/dev/applyXSL/xsams2sme/service
+http://voparis-twiki.obspm.fr/twiki/bin/view/VAMDC/TavernaUserGuide
+http://www.vamdc.euTaverna

@@ -1,0 +1,9 @@
+http://taverna.sf.net/2008/xml/t2flow
+http://biovel.github.io/esw/sample_data/present.tif
+http://biovel.github.io/esw/sample_data/prediction.tif
+http://biovel.github.io/esw/sample_data/dendrolimus_pini.csv
+http://biovel.github.io/esw/tdwg_level_4.zip
+http://www.myexperiment.org/workflows/3355
+https://r-forge.r-project.org/scm/viewvc.php/pkg/raster/R/cellStats.R?view=markup&amp;root=rasterThe
+http://cran.r-project.org/
+http://www.biovel.eu/

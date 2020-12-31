@@ -1,0 +1,11 @@
+http://org.embl.ebi.escience/xscufl/0.1alpha
+http://downloads
+http://flossmole
+http://flosspapers.org/
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://www.w3.org/2001/XMLSchema-instance
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
+http://org.embl.ebi.escience/xscufliteration/0.1beta10
